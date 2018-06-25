@@ -1,8 +1,9 @@
 # ReactProject
 chat, list, test
-Build Setup
-# install dependencies
+
+#Build Setup
 npm install
 
-# serve with hot reload at localhost:8080
-npm start
+# serve
+frontend npm start
+backend nodemon server.js
